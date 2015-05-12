@@ -6,7 +6,7 @@ import org.apache.ws.security.handler.WSHandlerConstants;
 
 /**
  *
- * @author gersuare
+ * @author gersua
  */
 public class WSSClientMain {
 
